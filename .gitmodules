@@ -1,0 +1,6 @@
+[submodule "components/FastAccelStepper"]
+	path = components/FastAccelStepper
+	url = https://github.com/gin66/FastAccelStepper
+[submodule "components/arduino"]
+	path = components/arduino
+	url = https://github.com/espressif/arduino-esp32
